@@ -52,10 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TheHacker2244/TheHacker2244/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/ySalM-gB5SQAAAAC/nazuna-nazuna-nanakusa.gif"  />
 </div>
